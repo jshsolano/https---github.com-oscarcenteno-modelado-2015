@@ -15,4 +15,4 @@ Escenario: Búsqueda por tipo de puntuación
 
 Cuando: la puntuación sea “la más alta”
 
-Entonces: “Carrie” es parte de los resultados
+Entonces: “Carrie” es parte de los resultados.

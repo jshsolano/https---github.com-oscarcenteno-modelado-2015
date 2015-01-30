@@ -1,0 +1,18 @@
+#languaje: es
+Característica: búsqueda libros más recomendados
+Como Luis, el lector juicioso, quiero ver la lista de los libros más recomendados según la preferencia de los lectores
+
+Antecedentes:
+Dados: estos libros
+|Libro|Género|Autor|Puntuación|
+|Cien años de soledad|Novela|Gabriel García Marquez|4|
+|El señor de los anillos|Fantasía, Ficción|JRR Tolkien|3|
+|El Alquimista|Novela|Paulo Cohelo|3|
+|Games of Thrones|Ficción|George RR Martin|4|
+|Carrie|Terror|Stephen King|5|
+
+Escenario: Búsqueda por tipo de puntuación
+
+Cuando: la puntuación sea “la más alta”
+
+Entonces: “Carrie” es parte de los resultados

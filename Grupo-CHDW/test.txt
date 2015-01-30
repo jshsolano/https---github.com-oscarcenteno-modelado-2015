@@ -1,3 +1,0 @@
-#language:es
-Caracteristica: búsqueda de libros mas recomendados
-Como Luis, lect
